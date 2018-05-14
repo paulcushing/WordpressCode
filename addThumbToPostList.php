@@ -1,3 +1,4 @@
+<?php
 // Add to functions.php file
 
 // Setup Admin Thumbnail Size
